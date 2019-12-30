@@ -1,5 +1,5 @@
-# homebridge-vizio-soundbar
-A Homebridge plugin for controlling your Vizio Smartcast soundbar using HomeKit or Siri. 
+# homebridge-vizio-soundbar-input
+A Homebridge plugin for controlling your Vizio Smartcast soundbar using HomeKit or Siri. This fork will aim to expose inputs for the soundbar - both showing the current input and allowing switching to different inputs from Homekit.
 
 ## Getting Started
 You'll need to install [Homebridge](https://github.com/nfarina/homebridge) first:
